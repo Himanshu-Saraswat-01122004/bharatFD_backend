@@ -1,9 +1,5 @@
 # **FAQ Management System**
 
-A Django-based backend application for managing FAQs with multilingual support, WYSIWYG editor integration, and caching for improved performance.
-
----
-
 ## **Features**
 - **FAQ Management**: Create, read, update, and delete FAQs.
 - **Multilingual Support**: Automatically translate FAQs into multiple languages (e.g., Hindi, Bengali).
@@ -169,11 +165,3 @@ python manage.py test
 ## **Caching**
 - Redis is used for caching API responses.
 - FAQs are cached for 15 minutes to improve performance.
-
----
-
-## **Contact**
-For questions or feedback, please contact:
-- **Himanshu Saraswat**  
-- **Email**: himanshu.s22@iiits.in
-
